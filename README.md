@@ -1,4 +1,14 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Maruthuvan - AI Healthcare Platform
+
+Maruthuvan is an AI-powered rural healthcare and telemedicine platform designed to bridge the healthcare gap in rural communities.
+
+## Features
+
+- AI Symptom Checker
+- Telemedicine Consultations
+- Digital Health Records
+- Emergency SOS System
+- Multi-language Support (Tamil & English)
 
 ## Getting Started
 
